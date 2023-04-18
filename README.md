@@ -5,6 +5,10 @@
 ``` js
 
 const upx = new Upload();
-upx.uploadFile( <FileObject> );
+
+upx.uploadFile( <FileObject> )
+.then( function(data) {
+    console.log(data)
+});
 
 ```
