@@ -14,3 +14,8 @@ function upload( file ) {
     })
 }
 ```
+### Support
+True Money Wallet
+![TW](./image/)
+Prompt Pay
+![PP](./image/)
