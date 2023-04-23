@@ -15,7 +15,7 @@ function upload( file ) {
 }
 ```
 ### Support
-True Money Wallet
-![TW](./image/)
-Prompt Pay
-![PP](./image/)
+True Money Wallet 0855927641
+![TW](./image/IMG_20230423_173547.jpg)
+Prompt Pay 0970493657
+![PP](./image/IMG_20230423_173450.jpg)
